@@ -3,7 +3,7 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
 
 ## Register
 - https://kaleidofinance.xyz/testnet?ref=ZXTAEAVF
-
+- join my offical channel https://t.me/Offical_Im_kazuha
 ## 🌟 Features
 
 - **Multi-Wallet Mining Support**: Manage multiple wallets simultaneously.
